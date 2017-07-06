@@ -1,0 +1,25 @@
+{
+  "name": "receiveamessage",
+  "version": "1.0.0",
+  "description": "When the program receives a text message, it automatically replies with a predetermined message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ‘no test yet’",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "text",
+    "reply",
+    "automatically",
+    "reply",
+    "recieve",
+    "text"
+  ],
+  "author": "Jillian Troftgruben",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-bandwidth": "^2.3.3"
+  }
+}
